@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: I am a <br/>
+  #### :fire: I aim to become a<br/>
+  #### :mortar_board: 
   <br/>
   <br/>
   
@@ -55,9 +55,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeyoon37)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeyoon37)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
