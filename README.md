@@ -24,7 +24,7 @@
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
           <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
     </div>
 </div>
 
@@ -39,9 +39,9 @@
 <div style="text-align: left;">  </div> 
      </div>
      <div style="text-align: left;"> 
-     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
-         [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyoon3741)](https://solved.ac/jyoon3741/)
-         <img src="https://github-readme-stats.vercel.app/api?username=Jaeyoon37&bg_color=180,00000000,&title_color=000000&text_color=000000"
-          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeyoon37&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-            /> </div> 
-     </div>
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+         <img src="https://github-readme-stats.vercel.app/api?username=Jaeyoon37&show_icons=true&theme=radical">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyoon3741)](https://solved.ac/jyoon3741/)
+
+
