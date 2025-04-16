@@ -36,11 +36,12 @@
             <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://jyoon3741.tistory.com/">
         </a>
     </div>  <br> 
-</div>
-
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Jaeyoon37&bg_color=180,00000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeyoon37&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+<div style="text-align: left;">  </div> 
+     </div>
+     <div style="text-align: left;"> 
+     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">
+         [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyoon3741)](https://solved.ac/jyoon3741/)
+         <img src="https://github-readme-stats.vercel.app/api?username=Jaeyoon37&bg_color=180,00000000,&title_color=000000&text_color=000000"
+          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaeyoon37&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
+            /> </div> 
+     </div>
